@@ -1,6 +1,8 @@
 # README - Jogo da Cobrinha
 
 ![Snake animation](https://github.com/feltex/feltex/blob/main/feltex-github-user-contribution.svg)
+
+<br>
 Link do jogo: https://kaylan00.github.io/JogoDaCobrinha-javascript/
 <br>
 Este repositório contém um simples Jogo da Cobrinha implementado em JavaScript. O jogo permite aos usuários
