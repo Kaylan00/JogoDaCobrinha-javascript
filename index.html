@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da cobrinha</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>Desenvolvido por Kaylan souza</h1>
+    <div id="mobile-instructions">
+        <p>Para jogar no celular:</p>
+        <p>Deslize para cima, baixo, esquerda ou direita para controlar a cobra.</p>
+        <p>Clique em 'Iniciar' para começar o jogo.</p>
+        <span  id="close-instructions" style="position: absolute; top: 5px; right: 5px; cursor: pointer;">X</span>
+    </div>
+    <div id="overlay"></div>
+    <div id="message">
+        <span id="close-message">X</span>
+        <p id="message-text"></p>
+    </div>
+    <div id="game-container">
+        <div id="game-board"></div>
+        <div id="score-board">
+            <h2>Pontuações Anteriores</h2>
+            <ul id="score-list"></ul>
+        </div>
+    </div>
+    <div>
+        <button id="easy-button">Fácil</button>
+        <button id="medium-button">Médio</button>
+        <button id="hard-button">Difícil</button>
+    </div>
+    <button id="start-button">Iniciar</button>
+    <button id="show-history">Mostrar Histórico</button>
+    <button id="clear-history" style="display: none;">Apagar Histórico</button>
+
+    <script src="index.js" defer></script>
+</body>
+
+</html>
