@@ -1,8 +1,7 @@
 # README - Jogo da Cobrinha
 
-## Visão Geral
 ![Snake animation](https://github.com/feltex/feltex/blob/main/feltex-github-user-contribution.svg)
-
+Link do jogo: https://kaylan00.github.io/JogoDaCobrinha-javascript/
 Este repositório contém um simples Jogo da Cobrinha implementado em JavaScript. O jogo permite aos usuários
 controlar uma cobra, comer alimentos e marcar pontos com base nos alimentos consumidos, Enfase que o jogo é para dispositvios móveis tambem!
 
